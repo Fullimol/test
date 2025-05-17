@@ -3,6 +3,9 @@
 }
 
 p{
-    text-align: center;
     color: red
+}
+
+.container{
+    background-color: blue;
 }
